@@ -13,7 +13,7 @@ use pocketmine\event\player\PlayerRespawnEvent;
 
 class Main extends PluginBase implements Listener {
 
-	private Config $cfg;
+	protected Config $cfg;
 
 	protected function onEnable(): void {
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
