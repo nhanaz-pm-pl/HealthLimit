@@ -1,5 +1,4 @@
 ---
-# Maximum health of each player
-# It is not recommended to set the health limit less than 1
-HealthLimit: 2
+# Player's limited health (Minimum value is 1)
+healthLimit: 2
 ...
