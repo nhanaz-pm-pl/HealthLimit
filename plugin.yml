@@ -1,6 +1,6 @@
 ---
 name: HealthLimit
-version: 1.0.2+dev
+version: 1.0.2
 main: NhanAZ\HealthLimit\Main
 api: 5.0.0
 src-namespace-prefix: NhanAZ\HealthLimit
